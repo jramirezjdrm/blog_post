@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+
+#post h1 {
+    color: crimson;
+}
+
+#post {
+    padding: 20px;
+    margin: 100px;
+    border: 1px solid;
+}
