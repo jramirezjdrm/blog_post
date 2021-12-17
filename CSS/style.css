@@ -7,8 +7,13 @@ body {
     color: crimson;
 }
 
+#post p {
+    color:mediumblue    ;
+}
+
 #post {
     padding: 20px;
     margin: 100px;
     border: 1px solid;
 }
+
